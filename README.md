@@ -45,6 +45,9 @@ This project explores the training of multilingual language embeddings and their
 - **DNN embeddings** offered an efficient alternative with competitive accuracy.  
 
 ---
+
+## Acknowledgments
+Special thanks to **Professor Dino Konstantopoulos** for his guidance and mentorship during INFO6106: Neural Networks.
 ## Conclusion
 This project demonstrates the power of RNN-based embeddings in capturing sequential dependencies, making them more effective for chatbot applications. While Word2Vec embeddings provide a reliable baseline, DNN embeddings act as an efficient alternative with competitive results. The chatbot's superior performance with RNN embeddings underscores the potential for building contextually aware conversational AI in Hindi.
   
